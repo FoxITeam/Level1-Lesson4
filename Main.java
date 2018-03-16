@@ -11,7 +11,7 @@ import java.util.Scanner;
  if (trigger) {
  currentDot = F_DOT_X;
  progressPlayer();
- } else {
+ } else { 
  currentDot = FOX_DOT_O;
  progressMachine();
  }
